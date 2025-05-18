@@ -26,5 +26,5 @@ Tam kod paylaşımı bulunmamaktadır. Sadece kısmi kod paylaşımı yapılmı�
 
 📂 Örnek Kodlar
 
-- [Talep Oluşturma Controller](örnek-kodlar/Controller/TeklifController.php)
+- [Talep Oluşturma Controller](ornek-kodlar/Controller/TeklifController.php)
 

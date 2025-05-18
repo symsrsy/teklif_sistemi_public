@@ -27,4 +27,4 @@ Tam kod paylaşımı bulunmamaktadır. Sadece kısmi kod paylaşımı yapılmı�
 📂 Örnek Kodlar
 
 - [Talep Oluşturma Controller](örnek-kodlar/Controller/TeklifController.php)
-- [Gelen Mail Parser](örnek-kodlar/Console/GmailParseCevaplar.php)
+

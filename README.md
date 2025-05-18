@@ -2,6 +2,8 @@
 
 Bu proje, firmaların tedarikçilerle olan teklif süreçlerini otomatikleştirmek amacıyla geliştirilmiş Laravel tabanlı bir sistemdir.
 
+Tam kod paylaşımı bulunmamaktadır. Sadece kısmi kod paylaşımı yapulmıştır.
+
 ## Özellikler
 
 - Teklif talebi oluşturma
